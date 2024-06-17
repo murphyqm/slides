@@ -4,4 +4,4 @@ title:  "Reimagine Ageing Network event: Unlocking the Power of Data Science to 
 date:   2024-06-11 10:30:07 +0100
 categories: conference presentation
 ---
-Presentation slides can be found [here](https://nbviewer.org/github/murphyqm/slides/blob/43ac5aa410ebe04837394b22f93cfb406c27561e/pdf-files/ReimagineAgeingNetwork.pdf)
+Presentation slides can be found [here](https://nbviewer.org/github/murphyqm/slides/blob/ce2b726c1345f74bd9af04ab077ee544ab837d15/pdf-files/ReimagineAgeingNetwork.pdf)
